@@ -1,0 +1,4 @@
+Phishing email bypassed filter due to new sender domain. User reported 
+quickly, preventing credential theft. Process improved: updated email 
+filter rules and scheduled phishing simulation for all staff next week. 
+No data loss occurred. Incident response time was within SLA.

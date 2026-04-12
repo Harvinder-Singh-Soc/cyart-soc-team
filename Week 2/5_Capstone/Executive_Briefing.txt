@@ -1,0 +1,8 @@
+Today, our security tools detected an attempt to break into one of our test 
+servers using a flaw in older software. The attack was identified within 
+one minute and our automated systems immediately blocked the attacker's 
+computer. The affected test server was safely disconnected as a precaution. 
+No customer information or business operations were impacted at any time. 
+The incident is fully contained and our team is using this exercise to 
+further strengthen our defenses. No action is required from your office. 
+Business continuity remains unaffected.
