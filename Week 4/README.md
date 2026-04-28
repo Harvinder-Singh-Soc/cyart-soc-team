@@ -32,7 +32,7 @@ All VMs communicate over a Host‑only network (`192.168.56.0/24`). Only LabRout
 
 ## Tasks & Documentation
 
-Each task has its own subfolder with a `README.md`, a PDF report, and relevant screenshots. Additionally, **all screenshots for the entire Week 4 are collected in the shared [`screenshots/`](screenshots/) folder**.
+Each task has its own subfolder with a `README.md`, a PDF report, and relevant screenshots. Additionally, **all screenshots for the entire Week 4 are collected in the shared [`Screenshots/`](screenshots/) folder**.
 
 | # | Task | Folder | Key Tools | Status |
 |---|------|--------|-----------|--------|
@@ -49,7 +49,7 @@ Each task has its own subfolder with a `README.md`, a PDF report, and relevant s
 
 ## Central Screenshot Repository
 
-All screenshots captured during the lab are placed in the [`Week_4/screenshots/`](screenshots/) folder for easy access. Each task folder also contains its own screenshots if you prefer a per‑task view.
+All screenshots captured during the lab are placed in the [`Week_4/Screenshots/`](screenshots/) folder for easy access. Each task folder also contains its own screenshots if you prefer a per‑task view.
 
 **Screenshots list:**
 
