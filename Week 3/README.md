@@ -8,17 +8,17 @@ This repository contains the completed theoretical knowledge and practical appli
 ```
 task/
 ├── theoretical/
-│   ├── 01-advanced-log-analysis.md
-│   ├── 02-threat-intelligence-integration.md
-│   └── 03-incident-escalation-workflows.md
+│   ├── 01-advanced-log-analysis.pdf
+│   ├── 02-threat-intelligence-integration.pdf
+│   └── 03-incident-escalation-workflows.pdf
 │
 ├── practical/
-│   ├── 01-advanced-log-analysis.md
-│   ├── 02-threat-intelligence-integration.md
-│   ├── 03-incident-escalation-practice.md
-│   ├── 04-alert-triage-with-threat-intelligence.md
-│   ├── 05-evidence-preservation-and-analysis.md
-│   └── 06-capstone-full-soc-workflow-simulation.md
+│   ├── 01-advanced-log-analysis.pdf
+│   ├── 02-threat-intelligence-integration.pdf
+│   ├── 03-incident-escalation-practice.pdf
+│   ├── 04-alert-triage-with-threat-intelligence.pdf
+│   ├── 05-evidence-preservation-and-analysis.pdf
+│   └── 06-capstone-full-soc-workflow-simulation.pdf
 │
 └── README.md
 ```
