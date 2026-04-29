@@ -30,9 +30,9 @@ Wazuh automatically enriches alerts with MITRE ATT&CK mappings, compliance stand
 
 Expanded Alert — Event ID 4624 (Successful Logon):
 
-https://screenshots/enriched-alert_1.png
+screenshots/enriched-alert_1.png
 
-https://screenshots/enriched-alert_2.png
+screenshots/enriched-alert_2.png
 
 Enrichment Table:
 Alert ID	IP	User	Logon Type	MITRE Technique	Fired Times
@@ -62,7 +62,7 @@ Results: 8 hits from Windows-Endpoint within the search window
 
 Findings: All logons mapped to user "Harvinder Singh" via Logon Type 2 (Interactive). No unusual off-hours activity or unauthorized account usage detected. Query saved for continuous monitoring.
 
-https://screenshots/threat-hunting.png
+screenshots/threat-hunting.png
 
 MITRE ATT&CK Mapping:
 
@@ -88,7 +88,7 @@ Tools Used
 ## 📁 Folder Structure:
 
 2-Threat-Intelligence/
-├── README.md ← Ye paste karo
+├── README.md
 └── screenshots/
 ├── wazuh-otx-integration.png
 ├── enriched-alert_1.png
